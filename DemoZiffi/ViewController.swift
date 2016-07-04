@@ -35,14 +35,14 @@ class ViewController: UIViewController {
         }
     }
 
-    @IBAction func login(sender: UIButton) {
+    @IBAction func login(sender: UIButton)
+    {
         showLoginScreen()
     }
     
-    
-    @IBAction func signup(sender: UIButton) {
+    @IBAction func signup(sender: UIButton)
+    {
+        
     }
-    
-
 }
 
