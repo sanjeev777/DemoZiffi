@@ -17,11 +17,18 @@ class LoginViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func loginFacebook(sender: UIButton) {
-    }
-    @IBAction func logingoogle(sender: UIButton) {
+    @IBAction func loginFacebook(sender: UIButton)
+    {
+        
     }
     
-    @IBAction func login(sender: UIButton) {
+    @IBAction func logingoogle(sender: UIButton)
+    {
+        
+    }
+    
+    @IBAction func login(sender: UIButton)
+    {
+        
     }
 }
